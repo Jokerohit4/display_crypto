@@ -1,0 +1,9 @@
+
+
+
+abstract class StringConstants{
+
+
+  static const String token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwcC50cmFkZXlhcnIuY29tL2FwaS9jbGllbnRMb2dpbiIsImlhdCI6MTcwODkzOTI5MywiZXhwIjoxNzEwMjM1MjkzLCJuYmYiOjE3MDg5MzkyOTMsImp0aSI6InQ0ckFKeWs1c2NjWURrQjIiLCJzdWIiOiIxMjA2IiwicHJ2IjoiNDFlZmI3YmFkN2Y2ZjYzMmUyNDA1YmQzYTc5M2I4YTZiZGVjNjc3NyJ9.diQmvN-AUU3qLVcCrh58aasuGGShasKp14PnIl47qEM';
+  static const String url = 'https://app.tradeyarr.com/api/client/watchlist/fetch';
+}
